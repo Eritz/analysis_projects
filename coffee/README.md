@@ -1,0 +1,1 @@
+Use Quandl and pandas to analyze the coffee imports of countries with some of the highest GDP value. I'll check if there are any correlations between these countries and if the S&P 500 has any relationship to these imports.
