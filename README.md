@@ -1,1 +1,1 @@
-Portfolio of various data analysis done.
+Portfolio of various data analysis projects.
